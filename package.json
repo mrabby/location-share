@@ -1,0 +1,14 @@
+{
+  "name": "location-share",
+  "version": "1.0.0",
+  "description": "Minimalna aplikacija za deljenje lokacije z Leafletom",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
